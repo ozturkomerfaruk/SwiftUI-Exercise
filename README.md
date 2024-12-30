@@ -1,0 +1,2 @@
+# SwiftUI-Exercise
+Maksat SwiftUI
